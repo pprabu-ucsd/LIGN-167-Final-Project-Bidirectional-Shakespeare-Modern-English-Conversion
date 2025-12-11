@@ -5,7 +5,7 @@
 The notebooks containing our models are:
 
 * `t5_clean.ipynb`: contains our T5 model
-* 
+*  `Bidirectional_Marian_MT_Shakespeare_Modern.ipynb`: contains our bidirectional Marian MT model
 * `Seq2Seq_LSTM.ipynb`: contains our Seq2Seq LSTM model
 
 The notebooks containing our evaluation methods are:
